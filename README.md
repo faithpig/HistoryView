@@ -1,0 +1,2 @@
+# HistoryView
+一个简单的andorid浏览器搜索历史记录layout的demo
